@@ -1,0 +1,20 @@
+@charset "utf-8";
+html,body{
+	margin:0px;
+	padding:0px;
+}
+A:link {
+	COLOR: #ffffff; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #ffffff
+}
+A:visited {
+	COLOR: #f0f0f0; TEXT-DECORATION: none
+}
+.spa {
+	FILTER: glow(color=#0f42a6, strength=2) dropshadow(color=#0f42a6, offx=2, offy=1, ); PADDING-RIGHT: 8px; FONT-FAMILY: ""; COLOR: #8aade9; FONT-SIZE: 9pt
+}
+IMG {
+	FILTER: alpha(opacity:100); chroma: #ffffff)
+}
